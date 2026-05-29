@@ -28,3 +28,80 @@
 2026-05-22 01:28:29,449 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
 2026-05-22 01:28:29,449 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
 2026-05-22 01:28:30,161 - INFO - Пайплайн завершён. Время: 0:00:03.841530
+2026-05-29 14:53:39,780 - INFO -  ETL ПАЙПЛАЙН ЗАПУЩЕН 
+2026-05-29 14:53:39,899 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=0&_limit=20
+2026-05-29 14:53:40,693 - INFO - Загружено: 20 | Валидных: 20 | Всего: 20
+2026-05-29 14:53:40,693 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=20&_limit=20
+2026-05-29 14:53:40,693 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=20&_limit=20
+2026-05-29 14:53:41,316 - INFO - Загружено: 20 | Валидных: 20 | Всего: 40
+2026-05-29 14:53:41,317 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=40&_limit=20
+2026-05-29 14:53:41,317 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=40&_limit=20
+2026-05-29 14:53:41,317 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=40&_limit=20
+2026-05-29 14:53:41,942 - INFO - Загружено: 20 | Валидных: 20 | Всего: 60
+2026-05-29 14:53:41,942 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=60&_limit=20
+2026-05-29 14:53:41,942 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=60&_limit=20
+2026-05-29 14:53:41,942 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=60&_limit=20
+2026-05-29 14:53:41,942 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=60&_limit=20
+2026-05-29 14:53:43,177 - INFO - Загружено: 20 | Валидных: 20 | Всего: 80
+2026-05-29 14:53:43,178 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=80&_limit=20
+2026-05-29 14:53:43,178 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=80&_limit=20
+2026-05-29 14:53:43,178 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=80&_limit=20
+2026-05-29 14:53:43,178 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=80&_limit=20
+2026-05-29 14:53:43,178 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=80&_limit=20
+2026-05-29 14:53:43,848 - INFO - Загружено: 20 | Валидных: 20 | Всего: 100
+2026-05-29 14:53:43,849 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:53:43,849 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:53:43,849 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:53:43,849 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:53:43,849 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:53:43,849 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:53:44,580 - INFO - Пайплайн завершён. Время: 0:00:04.799452
+2026-05-29 14:56:11,283 - INFO -  ETL ПАЙПЛАЙН ЗАПУЩЕН 
+2026-05-29 14:56:11,343 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=0&_limit=20
+2026-05-29 14:56:11,659 - INFO - Успешно: статус 200
+2026-05-29 14:56:11,664 - INFO - Загружено: 20 | Валидных: 20 | Всего: 20
+2026-05-29 14:56:11,665 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=20&_limit=20
+2026-05-29 14:56:11,665 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=20&_limit=20
+2026-05-29 14:56:11,966 - INFO - Успешно: статус 200
+2026-05-29 14:56:11,966 - INFO - Успешно: статус 200
+2026-05-29 14:56:11,967 - INFO - Загружено: 20 | Валидных: 20 | Всего: 40
+2026-05-29 14:56:11,967 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=40&_limit=20
+2026-05-29 14:56:11,967 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=40&_limit=20
+2026-05-29 14:56:11,967 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=40&_limit=20
+2026-05-29 14:56:12,251 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,251 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,251 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,252 - INFO - Загружено: 20 | Валидных: 20 | Всего: 60
+2026-05-29 14:56:12,252 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=60&_limit=20
+2026-05-29 14:56:12,252 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=60&_limit=20
+2026-05-29 14:56:12,252 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=60&_limit=20
+2026-05-29 14:56:12,252 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=60&_limit=20
+2026-05-29 14:56:12,538 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,538 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,538 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,538 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,540 - INFO - Загружено: 20 | Валидных: 20 | Всего: 80
+2026-05-29 14:56:12,540 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=80&_limit=20
+2026-05-29 14:56:12,540 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=80&_limit=20
+2026-05-29 14:56:12,540 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=80&_limit=20
+2026-05-29 14:56:12,540 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=80&_limit=20
+2026-05-29 14:56:12,540 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=80&_limit=20
+2026-05-29 14:56:12,808 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,808 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,808 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,808 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,808 - INFO - Успешно: статус 200
+2026-05-29 14:56:12,810 - INFO - Загружено: 20 | Валидных: 20 | Всего: 100
+2026-05-29 14:56:12,810 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:56:12,810 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:56:12,810 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:56:12,810 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:56:12,810 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:56:12,810 - INFO - Попытка 1 загрузить https://jsonplaceholder.typicode.com/posts?_start=100&_limit=20
+2026-05-29 14:56:13,140 - INFO - Успешно: статус 200
+2026-05-29 14:56:13,140 - INFO - Успешно: статус 200
+2026-05-29 14:56:13,140 - INFO - Успешно: статус 200
+2026-05-29 14:56:13,140 - INFO - Успешно: статус 200
+2026-05-29 14:56:13,140 - INFO - Успешно: статус 200
+2026-05-29 14:56:13,140 - INFO - Успешно: статус 200
+2026-05-29 14:56:13,223 - INFO - Пайплайн завершён. Время: 0:00:01.939155
